@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/Extreme-Programming-Event/.github/blob/main/branding/logo.png" width="40%">
+  <img src="https://github.com/Extreme-Programming-Event/.github/blob/main/branding/logo.png" width="60%">
 
 <h2> EPE - Extreme Programming Event </h2>
 </div>
