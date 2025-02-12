@@ -1,4 +1,8 @@
-## EPE - Extreme Programming Event
+<div align="center">
+  <img src="https://github.com/dlangalgorithms/.github/blob/main/branding/logo.png" width="1280" height="720">
+
+<h2> EPE - Extreme Programming Event </h2>
+</div>
 
 > В чем суть ивента?
 
